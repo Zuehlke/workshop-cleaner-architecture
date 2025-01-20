@@ -9,13 +9,15 @@ We choose the example of an eCommerce solution: we call our solution 'Colossus'.
 
 ### The usecases
 The usecases we focus on are:
-<ol>Catalog-Management
-  <li>Add/Update/Delete Product</li>
-  <li>Add/Update/Delete Product-Category</li>
-</ol>
-<ol>Cart-Management
-  <li>Add/Remove Product in Cart</li>
-  <li>...</li>
+<ol>
+    <ol>Catalog-Management
+        <li>Add/Update/Delete Product</li>
+        <li>Add/Update/Delete Product-Category</li>
+    </ol>
+    <ol>Cart-Management
+        <li>Add/Remove Product in Cart</li>
+        <li>...</li>
+    </ol>
 </ol>
 
 ### The general data-model
@@ -107,6 +109,4 @@ C4Context
 ```
 
 ### The components
-<ol>
-  <li>[Colossus-Backend-Service](./colossus/backend/README-md)</li>
-</ol>
+- [Colossus-Backend-Service](./colossus/backend/README-md)
