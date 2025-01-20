@@ -1,0 +1,3 @@
+rootProject.name = 'workshop-cleaner-architecture'
+
+include 'colossus:backend'
