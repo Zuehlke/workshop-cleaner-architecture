@@ -10,14 +10,18 @@ We choose the example of an eCommerce solution: we call our solution 'Colossus'.
 ### The usecases
 The usecases we focus on are:
 <ol>
-    <ol>Catalog-Management
-        <li>Add/Update/Delete Product</li>
-        <li>Add/Update/Delete Product-Category</li>
-    </ol>
-    <ol>Cart-Management
-        <li>Add/Remove Product in Cart</li>
-        <li>...</li>
-    </ol>
+    <li><b>Catalog-Management</b>
+        <ol>
+            <li>Add/Update/Delete Product</li>
+            <li>Add/Update/Delete Product-Category</li>
+        </ol>
+    </li>
+    <li><b>Cart-Management</b>
+        <ol>
+            <li>Add/Remove Product in Cart</li>
+            <li>...</li>
+        </ol>
+    </li>
 </ol>
 
 ### The general data-model
